@@ -1,0 +1,2 @@
+[console_scripts]
+mi_comando = generar_codigo.app:main
